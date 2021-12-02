@@ -1,6 +1,7 @@
 Hi there!
 
-I'm just this random individual, with an interest in building reliable infrastructure for distributed systems and data engineering.
+I'm just a random person interested in data engineering and visualization.
+
 
 <!---
 roadswitcher/roadswitcher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
